@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>672389C3-9822-424D-82F8-50C13D225C8E</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"></ImageDocument>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>Untitle-test</ProjectTitle>
+            <ProjectAbbreviatedTitle>Untitle-test</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author Role="aut">Apollo Tang</Author>
+            </Authors>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>pdf</CurrentFileType>
+    <FormatSettings>
+        <Format ID="enumerated-outline">
+            <SectionLayouts>
+                <Type ID="EB04CD6B-00A3-4413-9283-7E6758E531E2">FA09F665-61A6-4552-8839-5913F35A18BF</Type>
+                <Type ID="366CD037-4BBF-48AC-B87F-BD1E367BEAB0">TEXT-SECTION</Type>
+                <Type ID="2A8CC150-A3F9-44AF-AD01-D6EAB67A0B29">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="EB04CD6B-00A3-4413-9283-7E6758E531E2">HEADER</Type>
+                <Type ID="366CD037-4BBF-48AC-B87F-BD1E367BEAB0">TEXT-WITH-HEADER</Type>
+                <Type ID="2A8CC150-A3F9-44AF-AD01-D6EAB67A0B29">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="full-outline">
+            <SectionLayouts>
+                <Type ID="EB04CD6B-00A3-4413-9283-7E6758E531E2">TEXT-SECTION</Type>
+                <Type ID="366CD037-4BBF-48AC-B87F-BD1E367BEAB0">AS-IS</Type>
+                <Type ID="2A8CC150-A3F9-44AF-AD01-D6EAB67A0B29">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Print>DEFAULT</Print>
+        <pdf>798F06A3-9687-4FC0-BB4A-2E3CA05F13D0</pdf>
+    </LastUsedFormats>
+</CompileSettings>

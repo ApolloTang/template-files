@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="39FE4178-EA94-4FDD-A4BD-7800260B6FE1" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="greentea" Author="Apollo Tang" Modified="2020-02-19 15:58:10 -0500" ModID="2AD3DE41-3879-428D-B31D-EE85472861EB">
+    <Binder>
+        <BinderItem UUID="464F3BC8-4983-46CD-A098-1E3DAA0BE814" Type="DraftFolder" Created="2018-12-02 21:45:09 -0500" Modified="2018-12-02 21:45:09 -0500">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>2BCAD255-083A-41A9-8E3E-72B27E55F4CF</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="2BCAD255-083A-41A9-8E3E-72B27E55F4CF" Type="Text" Created="2018-12-02 21:45:09 -0500" Modified="2019-06-17 02:50:55 -0400">
+                    <Title>There are many variations</Title>
+                    <MetaData>
+                        <SectionType>EB04CD6B-00A3-4413-9283-7E6758E531E2</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1454,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F0EFCE86-12AA-45ED-A231-28F503590C39" Type="Text" Created="2018-12-02 21:45:09 -0500" Modified="2019-06-17 02:44:52 -0400">
+                    <Title>enum</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>355,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DF04C9B9-FD57-4A96-BCAC-1581174001E8" Type="Text" Created="2018-12-02 21:45:09 -0500" Modified="2019-06-17 02:44:52 -0400">
+                    <Title>1: Introduction to React</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>129,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>120,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="29359CE0-5BA5-4CE2-A426-C597D0525271" Type="Text" Created="2018-12-02 21:45:09 -0500" Modified="2019-06-17 02:44:52 -0400">
+                    <Title>2: Building a todo list with react library</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>370,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="899B6569-AFB0-4CD7-9A35-D5455F70C9A7" Type="Text" Created="2018-12-02 21:45:09 -0500" Modified="2019-06-17 02:51:23 -0400">
+                    <Title>3: Introduction to Redux</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>325,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="ED06ED8E-23A6-4D67-AEA1-798A6C415C33" Type="Text" Created="2018-12-02 21:45:09 -0500" Modified="2019-06-17 02:44:52 -0400">
+                    <Title>4: React router; Async action creator</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>133,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B0F76375-E0E7-4812-8A9C-4E713ACFFB34" Type="Text" Created="2018-12-02 21:45:09 -0500" Modified="2019-06-17 02:44:51 -0400">
+                    <Title>5: Advance Curriculum</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>199,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="41A4CAA3-9B60-4F36-88C3-C92523887CCF" Type="ResearchFolder" Created="2018-12-02 21:45:09 -0500" Modified="2018-12-02 21:45:09 -0500">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="F78DAB28-3334-4A45-B264-456CF99AC5E8" Type="TrashFolder" Created="2018-12-02 21:45:09 -0500" Modified="2018-12-02 21:45:09 -0500">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="CB9C922E-B080-45AE-9B9F-C431D4DE38D2" Type="Folder" Created="2019-01-12 15:19:44 -0500" Modified="2019-01-12 15:19:46 -0500">
+            <Title>assets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="A3EC14D1-AE60-4F0D-A5EC-FAC3D34352D1" Type="Image" Created="2019-01-12 15:12:36 -0500" Modified="2019-01-12 15:12:45 -0500">
+                    <Title>hrule</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="16529659-6B58-4BA0-A66E-882E03BA2633" Type="Image" Created="2019-02-28 00:33:49 -0500" Modified="2019-03-27 01:31:51 -0400">
+                    <Title>check-mark</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="F6D99D02-033D-406F-A15B-5E398228B9B5" Type="Image" Created="2017-10-02 12:06:02 -0400" Modified="2019-03-27 01:31:46 -0400">
+                    <Title>warning-red</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="6D5C400F-439D-45BD-A2E2-B18B8534EF96" Type="Image" Created="2017-10-02 12:05:53 -0400" Modified="2019-03-27 01:31:36 -0400">
+                    <Title>warning-yellow</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="0C9403D0-371B-47AC-893F-91798F7C09E4" Type="Image" Created="2019-03-27 01:33:26 -0400" Modified="2019-03-27 01:34:45 -0400">
+                    <Title>forbiden</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="AB0C6409-562B-4B37-B459-5849D2237A13" Type="Folder" Created="2018-12-02 21:45:09 -0500" Modified="2018-12-02 21:45:09 -0500">
+            <Title>visual-scrap-notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="928245A0-DA55-4CEB-8188-ABAE0C988ED6" Type="Other" Created="2018-12-02 21:45:09 -0500" Modified="2018-12-02 21:45:09 -0500">
+                    <Title>keynote</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>key</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="2D17BD7C-DCC4-4D0C-8967-90A1E6397509" Type="Other" Created="2018-12-02 21:45:09 -0500" Modified="2018-12-02 21:45:09 -0500">
+                    <Title>graffle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>graffle</FileExtension>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem UUID="5851455F-D38E-4DE6-8FC2-E05E88467E9C" Type="Other" Created="2019-03-09 01:19:26 -0500" Modified="2019-03-09 01:28:50 -0500">
+                    <Title>this-file-has-extension-called-open_w_macvim</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>open_w_macvim</FileExtension>
+                    </MetaData>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="2C87BDC4-8525-422A-A5C8-0A4972D12FA0" Color="0.924849 0.924014 0.949681">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="672389C3-9822-424D-82F8-50C13D225C8E" Color="0.922176 0.818589 0.999618">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="EB04CD6B-00A3-4413-9283-7E6758E531E2">Heading</Type>
+            <Type ID="366CD037-4BBF-48AC-B87F-BD1E367BEAB0">Sub-Heading</Type>
+            <Type ID="2A8CC150-A3F9-44AF-AD01-D6EAB67A0B29">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>EB04CD6B-00A3-4413-9283-7E6758E531E2</Type>
+            </Folders>
+            <Containers>
+                <Type>EB04CD6B-00A3-4413-9283-7E6758E531E2</Type>
+            </Containers>
+            <Files>
+                <Type>2A8CC150-A3F9-44AF-AD01-D6EAB67A0B29</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2018-10-20 00:50:07 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-02-20 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-02-19 15:58:06 -0500"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2020-02-19 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

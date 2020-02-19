@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="DF04C9B9-FD57-4A96-BCAC-1581174001E8">
+            <Title>1: Introduction to React</Title>
+            <Text>React Training Curriculum
+
+Session 1: Introduction to React
+
+	•	How to use excercise files
+	⁃	Activity:  set up workfile and installing stuff
+
+
+	•	React features: what problem is it trying to solve:
+
+	⁃	JSX, HTML in javascript
+	⁃	Traspilation
+	⁃	Why JSX
+	⁃	Expression in JSX
+	⁃	Comparing to template system
+	⁃	Separation of concern (technology vs domain)
+
+	⁃	Viirtual dom
+	⁃	declarative rendering
+	⁃	comparing to jquery
+	⁃	Plug able redering system
+
+
+	•	Using JSX
+
+	⁃	More example of JSX
+	⁃	Attributes in JSX
+	⁃	Array in JSX
+	⁃	Common iteration pattern
+	⁃	root element of component (v15 vs. v16)
+	⁃	Activity: interating a 2D array to build a table
+
+	•	React.Component
+
+	⁃	Stateless component
+	⁃	Component composition
+	⁃	Analyse component composition with react dev tool
+	⁃	Passing properties into component
+	⁃	React component class
+	⁃	constructor
+	⁃	class method
+	⁃	static properties
+	⁃	render method
+	⁃	react class internal state
+	⁃	Activity: Component Composition with layout
+
+	•	React syntheic event
+	⁃	event handler
+	⁃	ES6 arrow method
+	⁃	event handling pattern: props down/event up
+	⁃	event handling example
+
+	•	React Component life cycle
+	⁃	Mounting and unMounting component
+	⁃	Examples of using component life cycle:
+	⁃	showing content of REST request
+	⁃	Mounting and unmouting event listener
+
+	•	Handling input form
+	⁃	Control and uncontrol form
+</Text>
+            <Notes>move tooling to session one
+
+don't spend too much time on this, is their responsibility
+
+bolier play 
+	webpack
+	create react app
+</Notes>
+        </Document>
+        <Document ID="F6D99D02-033D-406F-A15B-5E398228B9B5">
+            <Title>check-mark</Title>
+        </Document>
+        <Document ID="16529659-6B58-4BA0-A66E-882E03BA2633">
+            <Title>check-mark</Title>
+        </Document>
+        <Document ID="CB9C922E-B080-45AE-9B9F-C431D4DE38D2">
+            <Title>assets</Title>
+        </Document>
+        <Document ID="2BCAD255-083A-41A9-8E3E-72B27E55F4CF">
+            <Title>There are many variations</Title>
+            <Text>This is the title
+
+There are many variations of pashere are many variations of passagesdfds 
+
+There are many variations There are many variation There are many variation 
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+handle_buttonClicked = (e) =&gt; {
+  if (!/^\s*$/.test(this.state.inputText)) {
+    this.props.dispatch_addTodo(this.state.inputText);
+    this.setState({inputText:''});
+  }
+}
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. 
+
+handle_buttonClicked = (e) =&gt; {
+  if (!/^\s*$/.test(this.state.inputText)) {
+    this.props.dispatch_addTodo(this.state.inputText);
+    this.setState({inputText:''});
+  }
+}
+
+All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+handle_buttonClicked = (e) =&gt; {
+  if (!/^\s*$/.test(this.state.inputText)) {
+    this.props.dispatch_addTodo(this.state.inputText);
+    this.setState({inputText:''});
+  }
+}
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+const length = numbers.length;
+let i = 0;
+const length = numbers.length;
+let i = 0;const length = numbers.length;
+let i = 0;const length = numbers.length;
+let i = 0;const length = numbers.length;
+let i = 0;const length = numbers.length;
+let i = 0;
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. 
+
+#
+
+
+￼
+
+
+All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+		
+￼
+
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+
+	•	There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected
+	⁃	There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected
+	⁃	There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected
+	⁃	There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected
+	⁃	There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected
+	⁃	There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected
+	•	There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected
+	•	
+</Text>
+        </Document>
+        <Document ID="2D17BD7C-DCC4-4D0C-8967-90A1E6397509">
+            <Title>graffle</Title>
+        </Document>
+        <Document ID="899B6569-AFB0-4CD7-9A35-D5455F70C9A7">
+            <Title>3: Introduction to Redux</Title>
+            <Text>Rect Training Curriculum
+
+Session 3: Introduction to Redux: a predictable state container for JS application
+
+Set up demo project
+Install redux devtool
+
+High level view of Redux flux cycle
+
+#
+
+
+What kind of problem has Rudux Flux cycle solve? 
+
+3 principals: 
+	1.	Single source of truth (The reducer)
+	2.	State is read only, 	
+	3.	State is pure 
+
+Single source of truth: 
+problem with binding
+State is read only:
+The only way to mutate state is via action
+unidirection data flow
+State is pure:  
+Thus state mutation are trace-able, replay-able
+ 
+
+Using Redux with React (React bindings for Redux)
+
+Dumb component (aka presentation component) 
+Smart component (aka container, connected component)
+Selector: Store-container interface
+	
+
+Closer look at action
+
+Dispatching an action
+Action object
+Flux Standard action
+	⁃	Event Type
+	⁃	Event Payload
+Action creator
+
+
+Closer look at the Reducer
+
+Redux composition and the reducer
+Reducer are pure function
+Activity: excercise in compositing pure reduce
+
+Selecting data from store
+
+Todo list app walk through 
+
+Watch me code: delete a todo list item
+
+Activity: Your turn to code
+toggle completion on a todo list item
+</Text>
+        </Document>
+        <Document ID="B0F76375-E0E7-4812-8A9C-4E713ACFFB34">
+            <Title>5: Advance Curriculum</Title>
+            <Text>Rect Training Advance Curriculum 
+
+High order component
+Advance component life cycle
+Playing nice with jquery (optional)
+Optimization rendering
+Handling form with redux flux cycle
+Animation in React 
+
+Type checking with Typescript
+Unit testing with Jest and Enzyme
+Integration testing a redux flux cycle
+e2e test with cypres
+Memoir selector with Reselect
+Lazy module loading
+
+CSS in JS
+Context
+Set up a react project with webpack@4 and Babel@7
+SSR using Next.js
+Roll your own SSR with webpack
+React Native
+Data visualization: D3.js in React
+Rxjs with React and Redux
+State management with MobX 
+
+
+ 
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="928245A0-DA55-4CEB-8188-ABAE0C988ED6">
+            <Title>graffle</Title>
+        </Document>
+        <Document ID="A3EC14D1-AE60-4F0D-A5EC-FAC3D34352D1">
+            <Title>hrule</Title>
+        </Document>
+        <Document ID="ED06ED8E-23A6-4D67-AEA1-798A6C415C33">
+            <Title>4: React router; Async action creator</Title>
+            <Text>Rect Training Curriculum
+
+session 4: React router; Async action creator
+
+Add todo list filter to UI state 
+project code walk through
+
+React Router 4
+
+Activity: todo List filter control by react router
+
+React Router 3 (optional)
+
+Async action creator
+
+Demo: Async action creator for REST request
+
+Activity: you fetch an endpoint
+
+Type cheking with proptype
+
+</Text>
+        </Document>
+        <Document ID="29359CE0-5BA5-4CE2-A426-C597D0525271">
+            <Title>2: Building a todo list with react library</Title>
+            <Text>Rect Training Curriculum
+
+Session 2: Building a todo list with react library
+
+	•	How to use excercise folder and introduction to webpack
+	•	Activity:  set up workfile and installing stuff
+	•	Project structure walk through
+	•	Watch me build a todo list app using react library
+	•	Activity: Your turn to code:
+	⁃	flag a completed todo item
+	⁃	delete an item from todo list
+	⁃	Bonus: filtering completed and current active todo item
+</Text>
+        </Document>
+        <Document ID="F0EFCE86-12AA-45ED-A231-28F503590C39">
+            <Title>enum</Title>
+            <Text>Tsfdadfa asdf adf
+
+Enum give you friendly name for numeric value
+
+enum Category {
+  Biography = 3,
+  Poetry,
+  Fiction
+}
+
+Category.Biography === 3 // true
+Category.Poetry === 4 // true
+Category.Fiction === 5 // true
+
+
+let IAmTypeEnumCategory: Category = Category.Biography
+IAmTypeEnumCategory === 3 // true
+
+console.log(IAmTypeEnumCategory) // 5 
+
+let categoryString = Category[IAmTypeEnumCategory] // Biograhy
+
+</Text>
+        </Document>
+        <Document ID="AB0C6409-562B-4B37-B459-5849D2237A13">
+            <Title>graffle</Title>
+        </Document>
+        <Document ID="6D5C400F-439D-45BD-A2E2-B18B8534EF96">
+            <Title>check-mark</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
